@@ -48,7 +48,7 @@ public class PrimitiveTypesEx1 {
 		// Ein Buchstabe 'D' hinter einem Literal erzwingt den Typ double.
 		// Lesbarer als 0D ist aber die Schreibweise 0.0 für solche Literale
 		double d = Double.MAX_VALUE;
-		System.out.println("Die größtmögilche 'primitive' Fließkommazahl in Java: " + d);
+		System.out.println("Die größtmögliche 'primitive' Fließkommazahl in Java: " + d);
 
 		System.out.println("Noch größer geht es nicht: " + d * 10);
 		
