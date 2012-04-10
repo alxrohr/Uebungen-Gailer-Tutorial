@@ -1,13 +1,15 @@
 /**
  * 
  */
-package de.alxrohr.gailertutex;
+package de.alxrohr.gailertutex.kap08;
 
 /**
  * @author Alexander Rohr
+ * 
+ * Übungen zu Kapitel 8: Primitive Datentypen
  *
  */
-public class PrimitiveTypesEx1 {
+public class PrimitiveTypen {
 
 	/**
 	 * @param args
@@ -29,7 +31,7 @@ public class PrimitiveTypesEx1 {
 		// Ein Buchstabe 'L' hinter einem Literal erzwingt auch für kleine Zahlen den Typ long
 		long l = 1L;
 		System.out.println("Eine " + l + " vom Typ long sieht auch nicht anderes aus als kürzere Einsen.");
-
+		
 		boolean georgeBool = true;
 		System.out.println("Die Aussage 'George Bool ist der Namenspatron des Typs boolean' hat den Wahrheitswert " + georgeBool);
 		
