@@ -21,7 +21,7 @@ public class KreisFlaeche {
 		System.out.println( "Bitte einen ganzzahligen Radius eingeben: " );
 		double radius = input.nextInt();
 
-		double flaeche = 2 * Math.PI * radius;
+		double flaeche = Math.PI * radius * radius;
 
 		System.out.println( "Der Kreis hat eine Fläche von " + flaeche );
 	}
