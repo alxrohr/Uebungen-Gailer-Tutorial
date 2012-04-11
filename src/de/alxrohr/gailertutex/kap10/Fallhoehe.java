@@ -5,8 +5,6 @@ package de.alxrohr.gailertutex.kap10;
 
 import java.util.Scanner;
 
-import javax.xml.stream.util.EventReaderDelegate;
-
 /**
  * @author Alexander Rohr
  * 
