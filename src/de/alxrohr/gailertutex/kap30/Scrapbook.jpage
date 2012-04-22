@@ -1,1 +1,4 @@
-new HalloObjekt("Rest");
+// Beliebige Ausdrücke und Codefragmente live ausführen
+// Einfach den gewünschten Code markieren und oben auf die Lupe (Inspect) oder die Symbole daneben wählen.
+
+1+5/2 > 5-2 && 12 < 23
